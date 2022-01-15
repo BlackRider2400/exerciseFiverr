@@ -1,0 +1,6 @@
+ports
+9000 9001 9002 ... - user management service
+8000 8001 8002 ... - user read service
+8761 - eureka server
+5672 - rabbit mq
+5000 - client server
